@@ -1,0 +1,4 @@
+com\sanqi\sso\controller\UserController.class
+com\sanqi\sso\service\UserService.class
+com\sanqi\sso\mapper\UserMapper.class
+com\sanqi\sso\pojo\User.class
